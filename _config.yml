@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   chandlerparsons
+disqus_shortname:   parsonsyang
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -40,7 +40,7 @@ disqus_shortname:   chandlerparsons
 email:              yangbo_66@163.com
 # twitter:            username
 # facebook:           username
-github-url:         chandlerparsons
+github-url:         parsonsyang
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
