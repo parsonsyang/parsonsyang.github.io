@@ -21,7 +21,7 @@ comments: false
 * [跬 步 - 大 学 生 资 讯 与 社 交](https://itunes.apple.com/cn/app/id1104897459?mt=8) —— 以大学生为主群体，并以报名参与公益活动方式兑换爱心基金，覆盖各类
 学 科资料分享，热点话题讨论。
 
-* [ChandlerParsons](https://chandlerparsons.github.io) —— 我的个人网站
+* [ParsonsYang](https://parsonsyang.github.io) —— 我的个人网站
 * [深圳技术帮](https://mp.weixin.qq.com/profile?src=3&timestamp=1553770852&ver=1&signature=1ZhiAXi*mNSwQZ0yP0D87UPwKRWKh64N6-noDrIlLPYwG0DfIaef3cQJkn6oqp6utOuW1VNMzPE3LYVnU2UpZw==) —— 我的个人公众号，用于分享自己喜欢的一些技术文章
 * [新浪](http://blog.sina.com.cn/u/2685019963) —— 新浪博客
 * [简书](https://www.jianshu.com/u/7d7df5c5669c) —— 简书博客
