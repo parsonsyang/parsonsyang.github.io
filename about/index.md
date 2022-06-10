@@ -21,6 +21,6 @@ comments: false
 * [新浪](http://blog.sina.com.cn/u/2685019963) —— 新浪博客
 * [简书](https://www.jianshu.com/u/7d7df5c5669c) —— 简书博客
 * [CSDN](https://blog.csdn.net/NickYangBooy) —— CSDN博客
-* [博客园](https://www.cnblogs.com/nickyangbo) —— 博客园博客
+* [博客园](https://www.cnblogs.com/parsonsyang) —— 博客园博客
 * [开源中国](https://my.oschina.net/NickYangBooy) —— 开源中国博客
 
