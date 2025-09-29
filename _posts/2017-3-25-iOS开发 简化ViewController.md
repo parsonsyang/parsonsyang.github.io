@@ -21,7 +21,7 @@ comments: true
 ### 将弱业务逻辑移到Model中
 首先是代码，以下的代码是帮助用户查找优先事项的列表：
 
-{% highlight objective_c %}
+{% highlight objective-c %}
 -(void)loadPriorities
 {
 	NSDate *now = [NSDate date];
@@ -33,7 +33,7 @@ comments: true
 {% endhighlight %}
 然而，如果把这些代码移动到`User`类中会让它变得更加明晰，这时`ViewController.m`中会是：
 
-{% highlight objective_c %}
+{% highlight objective-c %}
 -(void)loadPriorities
 {
 	self.priorities = [self.user currentPriorities];
@@ -41,7 +41,7 @@ comments: true
 {% endhighlight %}
 而`User + Extensions.m`中则是：
 
-{% highlight objective_c %}
+{% highlight objective-c %}
 -(NSArray *)currentPriorities
 {
 	NSDate *now = [NSDate date];
@@ -57,7 +57,7 @@ comments: true
 ### 把数据处理的逻辑移到服务层
 一些代码可能没办法很有效的移动到model中，然而这些代码却和model中的代码有清晰的关联，对于这种问题，可以使用`Store`。比如在下面的代码中，viewController需要完成从一个文件中获取一些数据，并对其进行操作：
 
-{% highlight objective_c %}
+{% highlight objective-c %}
 -(void)readArchive 
 {
 	NSBundle *bundle = [NSBundle bundleForClass:[self class]];

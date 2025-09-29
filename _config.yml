@@ -1,6 +1,6 @@
 # Site
 title:              Parsons的博客
-bio:                '每个函数方法的调用都有诗和远方'
+bio:                '代码中亦有诗和远方'
 description:        "全栈开发"
 reading_time:       true
 words_per_minute:   200
@@ -9,6 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                //parsonsyang.github.io
+# url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
@@ -39,9 +40,10 @@ disqus_shortname:   parsonsyang
 #bing-verify:
 email:              yangbo_66@163.com
 # twitter:            username
-# facebook:           username
+facebook:           parsonsyang
 github-url:         parsonsyang
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+jianshu:            7d7df5c5669c
+stackoverflow:      24669334/parsons-yang
 #linkedin:          username
 #xing:              username
 # instagram:          username
